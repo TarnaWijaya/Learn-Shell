@@ -2,7 +2,8 @@
 
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/1)
 
-## mengapa jarang update?. karena Reynaldi bingung 🖐️🗿
+## mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan
+merilisnya secata bertahap. 🙏🙏
 
 Anda harus :
 
