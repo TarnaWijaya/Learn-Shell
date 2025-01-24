@@ -4,6 +4,7 @@
 
 ## Do'a
 Doa Sebelum Belajar:
+
 اللّهُمَّ افْتَحْ عَلَيَّ أَبْوَابَ حِكْمَتِكَ، وَانْشُرْ عَلَيَّ رَحْمَتَكَ مِنْ خَزَائِنِكَ، اللّهُمَّ يَسِّرْ لِي فَهْمَ الْعِلْمِ الَّذِي أَتَعَلَّمُهُ، وَاجْعَلْهُ نَافِعًا لِي وَسَهِّلْ لِي حِفْظَهُ، وَاجْعَلْ تَعَلُّمِي هَذَا سَبَبًا لِلْبَرَكَةِ وَالْخَيْرِ فِي الدُّنْيَا وَالْآخِرَةِ.
 
 Artinya:
@@ -13,7 +14,8 @@ kupelajari, lancarkanlah pikiranku, dan tanamkanlah dalam ingatanku ilmu yang
 bermanfaat. Jadikanlah belajar ini sebagai jalan menuju keberkahan dan kebaikan
 dunia akhirat."
 
-Doa Setelah Belajar
+Doa Setelah Belajar:
+
 اللّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا.
 
 Artinya:
