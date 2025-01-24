@@ -1,6 +1,6 @@
 HakCiptaLisensi MIT
 
-(c) 2025 Tarna
+(c) 2025 Tarna & Reynaldi
 
 Izin dengan ini diberikan secara cuma-cuma kepada siapa saja yang mendapatkan salinan
 perangkat lunak ini dan berkas-berkas dokumentasi yang terkait ("Perangkat Lunak"), untuk bertransaksi
