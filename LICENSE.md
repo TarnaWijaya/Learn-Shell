@@ -1,11 +1,11 @@
 HakCiptaLisensi MIT
 
 ***⚠️PRINGATAN KERAS DILARANG COPY ATAU CLONE⚠️***
-***Boleh share tapi linknya saja***
-link: https://github.com/TarnaWijaya/Belajar-Module
 ```
 ilmu bisa dicari tapi tidak dengan cara mengclone. PAHAM🖐️
 ```
+***Boleh share tapi linknya saja***
+link: https://github.com/TarnaWijaya/Belajar-Module
 
 (c) 2025 Tarna & Reynaldi
 
