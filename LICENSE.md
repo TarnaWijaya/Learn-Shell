@@ -2,7 +2,7 @@ HakCiptaLisensi MIT
 
 ***⚠️PRINGATAN KERAS DILARANG COPY ATAU CLONE⚠️***
 ```
-ilmu bisa dicari tapi tidak dengan cara mengclone
+ilmu bisa dicari tapi tidak dengan cara mengclone. PAHAM🖐️
 ```
 
 (c) 2025 Tarna & Reynaldi
