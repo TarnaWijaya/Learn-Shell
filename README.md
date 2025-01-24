@@ -2,8 +2,10 @@
 
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/1)
 
+## Do'a
+Sebelum belajar:
 
-# mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan merilisnya secata bertahap. 🙏🙏
+### mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan merilisnya secata bertahap. 🙏🙏
 
 Anda harus :
 
