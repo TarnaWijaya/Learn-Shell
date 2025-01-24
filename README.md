@@ -1,5 +1,7 @@
 # ⚠️PRINGATAN KERAS⚠️
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/1)
+[LICENSE](LICENSE.md)
+
 Anda harus :
 
     - membaca
