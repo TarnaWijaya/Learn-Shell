@@ -1,6 +1,6 @@
 # ⚠️PRINGATAN KERAS⚠️
 
-[Help](https://github.com/TarnaWijaya/Belajar-Module/issues/1)
+[Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/1)
 
 Anda harus :
 
