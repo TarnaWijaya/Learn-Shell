@@ -1,5 +1,6 @@
 # ⚠️PRINGATAN KERAS⚠️
 
+
 Anda harus :
     - membaca
     - memahami
