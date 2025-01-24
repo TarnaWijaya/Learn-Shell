@@ -1,6 +1,9 @@
 HakCiptaLisensi MIT
 
 ***⚠️PRINGATAN KERAS DILARANG COPY ATAU CLONE⚠️***
+```
+ilmu bisa dicari tapi tidak dengan cara mengclone
+```
 
 (c) 2025 Tarna & Reynaldi
 
