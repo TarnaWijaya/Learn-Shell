@@ -1,5 +1,7 @@
 HakCiptaLisensi MIT
+
 ***⚠️PRINGATAN KERAS DILARANG COPY ATAU CLONE⚠️***
+
 (c) 2025 Tarna & Reynaldi
 
 Izin dengan ini diberikan secara cuma-cuma kepada siapa saja yang mendapatkan salinan
