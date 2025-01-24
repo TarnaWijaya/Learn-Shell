@@ -5,7 +5,8 @@
 
 
 ```
-mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan merilisnya
+mengapa jarang update?. karena Reynaldi bingung🖐️🗿
+, dan kami akan merilisnya
 secata bertahap. 🙏🙏
 ```
 
