@@ -15,9 +15,12 @@ untuk memahami atau menemukan celah error temukan bantuan dan ingat anda juga,
 jika telah di bantu oleh siapapun anda harus tetap memahaminya dan mencari
 penyebab permasalahanya dan menjadi celahnya agar anda tau caranya.
 
+## mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan
+merilisnya secata bertahap. 🙏🙏
+
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/1)
 
-## Do'a
+### Do'a
 Doa Sebelum Belajar:
 ```
 اللّهُمَّ افْتَحْ عَلَيَّ أَبْوَابَ حِكْمَتِكَ، وَانْشُرْ عَلَيَّ رَحْمَتَكَ مِنْ خَزَائِنِكَ، اللّهُمَّ يَسِّرْ لِي فَهْمَ الْعِلْمِ الَّذِي أَتَعَلَّمُهُ، وَاجْعَلْهُ نَافِعًا لِي وَسَهِّلْ لِي حِفْظَهُ، وَاجْعَلْ تَعَلُّمِي هَذَا سَبَبًا لِلْبَرَكَةِ وَالْخَيْرِ فِي الدُّنْيَا وَالْآخِرَةِ.
@@ -38,6 +41,5 @@ Artinya:
 yang diterima. Semoga ilmu yang kupelajari menjadi bermanfaat bagi diriku dan
 orang lain."
 ```
-### mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan merilisnya secata bertahap. 🙏🙏
 
 © Copyright R1 -Reynaldi & Tarna 2024/2025
