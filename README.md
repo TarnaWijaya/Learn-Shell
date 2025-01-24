@@ -15,8 +15,7 @@ untuk memahami atau menemukan celah error temukan bantuan dan ingat anda juga,
 jika telah di bantu oleh siapapun anda harus tetap memahaminya dan mencari
 penyebab permasalahanya dan menjadi celahnya agar anda tau caranya.
 
-## mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan
-merilisnya secata bertahap. 🙏🙏
+## mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan merilisnya secata bertahap. 🙏🙏
 
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/1)
 
