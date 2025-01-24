@@ -4,7 +4,10 @@
 
 
 
-mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan merilisnya secata bertahap. 🙏🙏
+```
+mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan merilisnya
+secata bertahap. 🙏🙏
+```
 
 Anda harus :
 
