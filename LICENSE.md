@@ -1,9 +1,9 @@
 HakCiptaLisensi MIT
 
 ***⚠️PRINGATAN KERAS DILARANG COPY ATAU CLONE⚠️***
-```
-ilmu bisa dicari tapi tidak dengan cara mengclone. PAHAM🖐️
-```
+
+> ilmu bisa dicari tapi tidak dengan cara mengclone kecuali anda membutuhkan
+
 ***Boleh share tapi linknya saja***
 
 link: https://github.com/TarnaWijaya/Belajar-Module
@@ -14,7 +14,8 @@ Izin dengan ini diberikan secara cuma-cuma kepada siapa saja yang mendapatkan sa
 perangkat lunak ini dan berkas-berkas dokumentasi yang terkait ("Perangkat Lunak"), untuk bertransaksi
 dengan Perangkat Lunak tanpa batasan, termasuk namun tidak terbatas pada hak-hak
 untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual
-salinan-salinan Perangkat Lunak, serta mengijinkan pihak-pihak yang mendapatkan Perangkat Lunak tersebut
+salinan-salinan Perangkat Lunak, serta mengijinkan pihak-pihak yang mendapatkan
+Perangkat Lunak tersebutcuali
 untuk melakukan hal yang sama, dengan tunduk pada persyaratan-persyaratan sebagai berikut:
 
 Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua
