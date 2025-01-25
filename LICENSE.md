@@ -2,7 +2,7 @@ HakCiptaLisensi MIT
 
 ***⚠️PRINGATAN KERAS DILARANG COPY ATAU CLONE⚠️***
 
-> ilmu bisa dicari tapi tidak dengan cara mengclone kecuali anda membutuhkan
+> ilmu bisa dicari tapi tidak dengan cara mengclone kecuali anda membutuhkannyasaya akam memperbolehkan
 
 ***Boleh share tapi linknya saja***
 
