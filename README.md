@@ -19,9 +19,7 @@ jika telah di bantu oleh siapapun anda harus tetap memahaminya dan mencari
 penyebab permasalahanya dan menjadi celahnya agar anda tau caranya.
 
 info/news:
-
-mengapa jarang update?. karena Reynaldi bingung🖐️🗿, dan kami akan
-merilisnya secara bertahap. 🙏🙏
+> kami akan merilisnya secara bertahap, agar bisa berkembang dengan baik
 
 ### Do'a
 Doa Sebelum Belajar:
