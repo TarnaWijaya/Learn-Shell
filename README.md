@@ -3,8 +3,8 @@ Developer: @TarnaWijaya & @Reynaldi
 
 Info:
 |-----|
-Ayo belajar module, kode shell
+
 
 ```
-s
+https://github.com/TarnaWijaya/Learn-Shell.git
 ```
