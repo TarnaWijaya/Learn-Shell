@@ -4,7 +4,7 @@ Developer: @TarnaWijaya & @Reynaldi
 # ⚠️PRINGATAN KERAS⚠️
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/1)
 
-[BACALAH LICENSE](LICENSE.md)
+> Boleh copy tapi harus dipelajari dan dipahami bukan merombak ulang. Paham
 
 Anda harus :
 
