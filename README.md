@@ -1,5 +1,6 @@
 # BELAJAR MODULE
 Developer: @TarnaWijaya & @Reynaldi
+Version: 1.0 Beta
 
 # ⚠️PRINGATAN KERAS⚠️
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/1)
