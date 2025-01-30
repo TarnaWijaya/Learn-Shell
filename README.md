@@ -4,7 +4,7 @@ Developer: @TarnaWijaya
 Version: 1.0 Beta
 
 # ⚠️PRINGATAN KERAS⚠️
-[Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/2)
+[Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/2) |
 [Joins Grups](https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n)
 
 > Boleh copy tapi harus dipelajari dan dipahami bukan merombak ulang. Paham
