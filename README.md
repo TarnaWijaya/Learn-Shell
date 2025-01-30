@@ -1,5 +1,5 @@
 # BELAJAR MODULE
-Developer: @TarnaWijaya
+Developer: [@TarnaWijaya](https://github.com/TarnaWijaya)
 
 [LICENSE](LICENSE.md)
 
