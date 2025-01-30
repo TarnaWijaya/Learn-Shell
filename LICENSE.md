@@ -30,7 +30,7 @@
    - Jika ingin mengajukan izin penggunaan, harus dilakukan secara tertulis dengan alasan yang sangat jelas dan disetujui secara eksplisit oleh TarnaWijaya.  
 
 **PERHATIAN!**  
-Kode ini punya sistem keamanan tingkat tinggi dan mekanisme penghancuran otomatis. Segala bentuk pelanggaran akan berakibat serius, termasuk penghapusan kode secara permanen dan tindakan hukum yang tegas.  
+> Boleh copy asalkan buat belajar 
 
 **Untuk informasi lebih lanjut atau izin penggunaan, kunjungi repositori resmi Learn-Shell di GitHub:**  
 [**https://github.com/TarnaWijaya/Learn-Shell**](https://github.com/TarnaWijaya/Learn-Shell)  
