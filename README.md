@@ -1,7 +1,7 @@
 # BELAJAR MODULE
 Developer: @TarnaWijaya
 
-Version: 1.0 Beta
+[LICENSE](LICENSE.md)
 
 # ⚠️PRINGATAN KERAS⚠️
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/2) |
