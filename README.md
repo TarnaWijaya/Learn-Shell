@@ -1,5 +1,5 @@
 # BELAJAR MODULE
-Developer: @TarnaWijaya & @Reynaldi
+Developer: @TarnaWijaya
 Version: 1.0 Beta
 
 # ⚠️PRINGATAN KERAS⚠️
@@ -47,4 +47,4 @@ yang diterima. Semoga ilmu yang kupelajari menjadi bermanfaat bagi diriku dan
 orang lain."
 ```
 
-© Copyright R1 -Reynaldi & Tarna 2024/2025
+© Copyright R1 -Tarna 2024/2025
