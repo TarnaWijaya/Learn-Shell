@@ -1,5 +1,6 @@
 # BELAJAR MODULE
 Developer: [@TarnaWijaya](https://github.com/TarnaWijaya)
+Guru: [@Reynaldi](https://t.me/kang_reynaldi)
 
 [LICENSE](LICENSE.md)
 
