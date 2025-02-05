@@ -1,5 +1,6 @@
 # BELAJAR MODULE
 Developer: [@TarnaWijaya](https://github.com/TarnaWijaya)
+
 Guru: [@Reynaldi](https://t.me/kang_reynaldi)
 
 [LICENSE](LICENSE.md)
@@ -7,15 +8,6 @@ Guru: [@Reynaldi](https://t.me/kang_reynaldi)
 # ⚠️PRINGATAN KERAS⚠️
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/2) |
 [Joins Grups](https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n)
-
-> Boleh copy tapi harus dipelajari dan dipahami bukan merombak ulang. Paham
-
-Anda harus :
-
-    - membaca
-    - memahami
-    - mempraktekkannya
-    - menguji
 
 catatan:
 
@@ -25,29 +17,5 @@ untuk memahami atau menemukan celah error temukan bantuan dan ingat anda juga,
 jika telah di bantu oleh siapapun anda harus tetap memahaminya dan mencari
 penyebab permasalahanya dan menjadi celahnya agar anda tau caranya.
 
-info/news:
+info:
 > kami akan merilisnya secara bertahap, agar bisa berkembang dengan baik
-
-### Do'a
-Doa Sebelum Belajar:
-```
-اللّهُمَّ افْتَحْ عَلَيَّ أَبْوَابَ حِكْمَتِكَ، وَانْشُرْ عَلَيَّ رَحْمَتَكَ مِنْ خَزَائِنِكَ، اللّهُمَّ يَسِّرْ لِي فَهْمَ الْعِلْمِ الَّذِي أَتَعَلَّمُهُ، وَاجْعَلْهُ نَافِعًا لِي وَسَهِّلْ لِي حِفْظَهُ، وَاجْعَلْ تَعَلُّمِي هَذَا سَبَبًا لِلْبَرَكَةِ وَالْخَيْرِ فِي الدُّنْيَا وَالْآخِرَةِ.
-
-Artinya:
-"Ya Allah, bukakanlah untukku pintu hikmah-Mu, limpahkanlah kepadaku rahmat dari
-khazanah-Mu. Ya Allah, permudahkanlah bagiku pemahaman atas ilmu yang akan
-kupelajari, lancarkanlah pikiranku, dan tanamkanlah dalam ingatanku ilmu yang
-bermanfaat. Jadikanlah belajar ini sebagai jalan menuju keberkahan dan kebaikan
-dunia akhirat."
-```
-Doa Setelah Belajar:
-```
-اللّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا.
-
-Artinya:
-"Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang baik, dan amal
-yang diterima. Semoga ilmu yang kupelajari menjadi bermanfaat bagi diriku dan
-orang lain."
-```
-
-© Copyright R1 -Tarna 2024/2025
