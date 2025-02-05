@@ -3,7 +3,7 @@ Developer: [@TarnaWijaya](https://github.com/TarnaWijaya)
 
 Guru: [@Reynaldi](https://t.me/kang_reynaldi)
 
-[LICENSE](LICENSE.md) |
+[LICENSE](LICENSE) |
 [Pusat Bantuan](https://github.com/TarnaWijaya/Belajar-Module/issues/2) |
 [Joins Grups](https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n)
 
