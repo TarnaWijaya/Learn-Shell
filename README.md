@@ -9,3 +9,5 @@ Guru: [@Reynaldi](https://t.me/kang_reynaldi)
 
 info:
 > kami akan merilisnya secara bertahap, agar bisa berkembang dengan baik
+
+©2024
